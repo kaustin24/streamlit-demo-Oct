@@ -11,7 +11,7 @@ plt.rcParams.update({
     "axes.labelcolor": INK, "font.size": 10,
 })
 
-DATA = r"C:\Users\kylea\OneDrive - rit.edu\MGIS_355\Labs\Streamlit_Deploy_Demo\Airbnb_listing.csv"
+DATA = "Airbnb_listing.csv"
 
 st.set_page_config(page_title="NYC Airbnb pricing", layout="wide")
 
